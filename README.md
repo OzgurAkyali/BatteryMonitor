@@ -25,6 +25,16 @@ Many laptop users prefer to keep their battery within a specific charge range in
 
 ## Installation
 
+Install the required packages:
+
 ```bash
 pip install psutil pystray pillow
+```
+
+## Usage
+
+Run the application:
+
+```bash
 python battery_monitor.py
+```
