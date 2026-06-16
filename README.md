@@ -2,6 +2,10 @@
 
 A lightweight Windows system tray application that monitors battery status in real time and notifies users when configurable charge or discharge thresholds are reached.
 
+## Why?
+
+Many laptop users prefer to keep their battery within a specific charge range instead of leaving it at 100% for long periods. BatteryMonitor provides customizable notifications when upper or lower battery thresholds are reached, helping users manage charging habits more easily.
+
 ## Features
 
 - Real-time battery monitoring
